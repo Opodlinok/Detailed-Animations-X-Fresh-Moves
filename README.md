@@ -1,4 +1,13 @@
-This is an unofficial resource pack that merges the eye animations from Fresh/Expressive Moves with the player body animations from Detailed Animations Reworked for Minecraft 1.21.x. I merely combined them for my own use and decided to share with the community.
+<table>
+  <tr>
+    <td>
+      <img src="pack.png" width="256"/>
+    </td>
+    <td>
+      This is an unofficial resource pack that merges the eye animations from Fresh/Expressive Moves with the player body animations from Detailed Animations Reworked for Minecraft 1.21.x. I merely combined them for my own use and decided to share with the community.
+    </td>
+  </tr>
+</table>
 
 ## Disclaimer and Copyright Notice:
 
