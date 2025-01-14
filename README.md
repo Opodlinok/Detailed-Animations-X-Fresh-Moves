@@ -20,7 +20,7 @@
 6. If you have questions or concerns about the original packs, please contact their authors (if possible).
 
 ## Installation Instructions
-1. Download the ZIP file of this resource pack.
+1. Download the [ZIP file](https://github.com/Opodlinok/Detailed-Animations-X-Fresh-Moves/releases/latest/) of this resource pack.
 2. Place it in your Minecraft resourcepacks folder.
 3. Enable it in-game via “Options” → “Resource Packs.”
 4. Make sure you have OptiFine or another mod that supports .jem/EMF models (if required).
