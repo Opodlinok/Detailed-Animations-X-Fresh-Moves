@@ -9,9 +9,13 @@
   </tr>
 </table>
 
+## Acknowledgments
+
+Huge thanks to the original creators of Detailed Animations and Fresh Animations for their amazing work! These mods significantly enhance the gaming experience, bringing a new level of detail and immersion to Minecraft. I was so impressed by their quality and attention to detail that I decided to combine these two projects to create an even more cohesive and harmonious visual style.
+
 ## Disclaimer and Copyright Notice:
 
-1. **All copyrights** of the original resources (models, textures, animations) belong to their respective creators:
+1. **All copyrights** of the original resources (models, textures, animations) belong to their respective creators.
    <br>Fresh Moves: Author(s) – [TrasTick](https://modrinth.com/user/TrasTick), mod on [modrinth page](https://modrinth.com/resourcepack/tras-fresh-player).
    <br>Detailed Animations Reworked: Author(s) – [Cymock](https://www.youtube.com/@Cymock1), mod on [modrinth page](https://modrinth.com/resourcepack/detailed-animations).
 3. I am not the author of the above-mentioned resources and have no direct connection to them.
